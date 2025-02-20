@@ -1,6 +1,8 @@
 # Spacecraft_system_analysis
 Spacecraft system analysis exercises
-for now following should be checked(1,2,3,4,5,6,8,9,10,11,12)
+
+for now following should be checked(1,2,3,4,5,6,8,9,10,11-corrected,12)
+
 [Exersice 1]()
 
 [Exersice 2]()
