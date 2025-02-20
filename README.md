@@ -1,7 +1,7 @@
 # Spacecraft_system_analysis
 Spacecraft system analysis exercises
 
-for now following should be checked(1,2,3,4,5,6,7-cor,8,9,10,11-cor,12)
+for now following should be checked(1,2,3,4,5,6,7-cor,8,9,10-cor,11-cor,12)
 
 [Exersice 1]()
 
