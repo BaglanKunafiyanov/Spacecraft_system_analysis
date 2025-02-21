@@ -3,17 +3,17 @@ Spacecraft system analysis exercises
 
 for now following should be checked(1,2,3,4,5,6,7-cor,8,9,10-cor,11-cor,12)
 
-[Exersice 1]()
+[Exersice 1](https://www.overleaf.com/project/67b8e0f0024e77e9be1ae9f4)
 
-[Exersice 2]()
+[Exersice 2](https://www.overleaf.com/project/67b8e1788a0c80c25064a552)
 
-[Exersice 3]()
+[Exersice 3](https://www.overleaf.com/project/67b8e1d8e9c81fd3c108ab1b)
 
-[Exersice 4]()
+[Exersice 4](https://www.overleaf.com/project/67b8e1e502d7f959ac8c62e1)
 
-[Exersice 5]()
+[Exersice 5](https://www.overleaf.com/project/67b8e2080c2649689b9e5e40)
 
-[Exersice 6]()
+[Exersice 6](https://www.overleaf.com/project/67b8e22223643fcf7efcf55d)
 
 [Exersice 7](https://www.overleaf.com/project/675af509b266dbfe1154d6c9)
 
