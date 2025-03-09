@@ -1,7 +1,7 @@
 # Spacecraft_system_analysis
 Spacecraft system analysis exercises
 
-for now following should be checked(1 (1.1-1.2-done,1.3-1.4-should be done),2,3,4,5,6,7-cor,8,9,10-cor,11-cor,12)
+for now following should be checked(1-cor,2,3,4,5,6,7-cor,8,9,10-cor,11-cor,12)
 
 [Exersice 1](https://www.overleaf.com/project/67b8e0f0024e77e9be1ae9f4)
 
