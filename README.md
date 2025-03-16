@@ -1,5 +1,5 @@
 # Spacecraft_system_analysis
-Spacecraft system analysis exercises
+Spacecraft system analysis course has been offered by Prof. Schmidt with invided Profs and engineers during the winter semester 2024/2025.
 
 [Exersice 1](https://www.overleaf.com/project/67b8e0f0024e77e9be1ae9f4)
 
@@ -26,4 +26,4 @@ Spacecraft system analysis exercises
 [Exersice 12](https://www.overleaf.com/project/679b36ca870321a9097b889f)
 
 
-some additional references about [orbital mechanics and astrodynamics](https://orbital-mechanics.space/intro.html)
+Some additional references about [orbital mechanics and astrodynamics](https://orbital-mechanics.space/intro.html)
