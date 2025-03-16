@@ -1,8 +1,6 @@
 # Spacecraft_system_analysis
 Spacecraft system analysis exercises
 
-for now following should be checked(1c,2,3,4c,5c,6,7c,8,9,10c,11c,12)
-
 [Exersice 1](https://www.overleaf.com/project/67b8e0f0024e77e9be1ae9f4)
 
 [Exersice 2](https://www.overleaf.com/project/67b8e1788a0c80c25064a552)
@@ -26,3 +24,6 @@ for now following should be checked(1c,2,3,4c,5c,6,7c,8,9,10c,11c,12)
 [Exersice 11](https://www.overleaf.com/project/679671f3cddc86e36224c81e)
 
 [Exersice 12](https://www.overleaf.com/project/679b36ca870321a9097b889f)
+
+
+some additional references about [orbital mechanics and astrodynamics](https://orbital-mechanics.space/intro.html)
