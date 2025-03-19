@@ -1,5 +1,5 @@
 # Spacecraft_system_analysis
-Spacecraft system analysis course has been offered by Prof. Schmidt with invided Profs and engineers during the winter semester 2024/2025.
+Spacecraft system analysis course has been offered by Prof. Schmidt with invited Profs and engineers during the winter semester 2024/2025.
 
 [Exersice 1](https://www.overleaf.com/project/67b8e0f0024e77e9be1ae9f4)
 
