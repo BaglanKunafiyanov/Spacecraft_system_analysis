@@ -26,4 +26,6 @@ Spacecraft system analysis course has been offered by Prof. Schmidt with invited
 [Exersice 12](https://www.overleaf.com/project/679b36ca870321a9097b889f)
 
 
-Some additional references about [orbital mechanics and astrodynamics](https://orbital-mechanics.space/intro.html)
+Some additional references about:
+[orbital mechanics and astrodynamics](https://orbital-mechanics.space/intro.html)
+[lecture from Oxford uni](https://users.physics.ox.ac.uk/~harnew/lectures/)
