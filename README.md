@@ -33,4 +33,7 @@ Some additional references about:
 About coordicate systems:
 [A survay of attitude representation](https://malcolmdshuster.com/Pub_1993h_J_Repsurv_scan.pdf)
 
+
+[Mission geometry; orbit and constellation design and management : spacecraft orbit and attitude systems]()
+
 Presentation update for Prod Schmidt
