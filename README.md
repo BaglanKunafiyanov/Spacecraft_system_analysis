@@ -30,4 +30,7 @@ Some additional references about:
 [orbital mechanics and astrodynamics](https://orbital-mechanics.space/intro.html)
 [lecture from Oxford uni](https://users.physics.ox.ac.uk/~harnew/lectures/)
 
+About coordicate systems:
+[A survay of attitude representation])https://malcolmdshuster.com/Pub_1993h_J_Repsurv_scan.pdf)
+
 Presentation update for Prod Schmidt
